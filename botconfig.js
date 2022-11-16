@@ -1,10 +1,10 @@
 module.exports = {
-  Admins: ["UserID", "UserID"], //Admins of the bot
+  Admins: ["930160045591773215", "969293516209541140"], //Admins of the bot
   ExpressServer: true, //If you wanted to make the website run or not
   DefaultPrefix: process.env.Prefix || "+", //Default prefix, Server Admins can change the prefix
   Port: 3000, //Which port website gonna be hosted
   SupportServer: "https://discord.gg/Zrq8JJEQzH", //Support Server Link
-  Token: process.env.Token || "MTAwMTMxODE5MDc0OTYwMTg4Mw.GZOaHA.MknWn2-FQAcqApinFDRo_2SWa_gy_BiW5uSM6Y", //Discord Bot Token
+  Token: process.env.Token || "MTAxOTY4NjYxMjM0NDUwODQ1Nw.Guzy2n.7iDeevGh9uzZTQp2kVvm8fX5wFS0FrdOd8OGvE", //Discord Bot Token
   ClientID: process.env.Discord_ClientID || "941328155975766106", //Discord Client ID
   ClientSecret: process.env.Discord_ClientSecret || "7f599ec6b8a17c415f315a1849c62c68738296605b45c04a7e742aa8333644e5", //Discord Client Secret
   Scopes: ["identify", "guilds", "applications.commands"], //Discord OAuth2 Scopes
